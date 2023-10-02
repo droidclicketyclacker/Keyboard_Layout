@@ -564,7 +564,7 @@
 					"Behavior": "\u0026mt",
 					"Notes": "Tap: Backspace\nHold: Left Meta",
 					"Args": [
-						"LMETA",
+						"LC(LS(LA(LGUI)))",
 						"BKSP"
 					]
 				},
